@@ -3,13 +3,13 @@ entries:
   daejeon_2-3:
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-07-30T01:23:28.059398716Z"
+    created: "2024-07-30T08:27:46.582175618Z"
     description: Worldskills Daejeon 2-3
-    digest: 9a34a3a5b7a22b98bc91a7318b066cf747a5e37085093e360d4cfeb593748a84
+    digest: 9730f1fc41b080b3c586142cf34ee958d95e4ac0d528141e094735fa9871eb3c
     icon: https://www.worldskillsasia.net/en/PublishingImages/WorldskillsKorea.jpg
     name: daejeon_2-3
     type: application
     urls:
     - daejeon_2-3-0.1.0.tgz
     version: 0.1.0
-generated: "2024-07-30T01:23:28.058958292Z"
+generated: "2024-07-30T08:27:46.581665683Z"
